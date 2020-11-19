@@ -16,6 +16,8 @@ thanks to: https://github.com/sharpaccent/Astar-for-Unity for base A star algori
 
 Next Features:
 
+adding floyd warshall for navmesh agent
+
 better multi agent movements
 
 generating real meshes in environment
